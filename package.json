@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "firebase-tools": "^13.34.0",
+    "netlify-cli": "^19.0.2"
+  }
+}
